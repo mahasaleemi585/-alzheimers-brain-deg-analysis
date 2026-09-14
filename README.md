@@ -142,4 +142,6 @@ with Alzheimer's disease. *Neuron*, 7(5), 695-702.
 5. See `results/limma_significant_DEGs.csv` for the full significant gene list
 
 ## Contact
-Maha Saleemi — [linkedin.com/in/maha-s-7bb503419](https://linkedin.com/in/maha-s-7bb503419) — mahaamjad929@gmail.com
+Maha Saleemi — [linkedin.com/in/maha-s-a8a455311](https://www.linkedin.com/in/maha-s-a8a455311) — mahasaleemi585@gmail.com
+
+
